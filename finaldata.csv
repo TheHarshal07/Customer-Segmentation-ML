@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100),Age_Group,Income_Group
+1,Male,19,15,39,19-29,Low
+2,Male,21,15,81,19-29,Low
+3,Female,20,16,6,19-29,Low
+4,Female,23,16,77,19-29,Low
+5,Female,31,17,40,30-39,Low
+6,Female,22,,76,19-29,
+7,Female,35,18,6,30-39,Low
+8,Female,23,18,94,19-29,Low
+9,Male,64,19,3,60 and over,Low
+10,Female,30,19,72,30-39,Low
+11,Male,67,19,14,60 and over,Low
+12,Female,35,19,99,30-39,Low
+13,Female,58,20,15,50-59,Low
+14,Female,24,20,77,19-29,Low
+15,Male,37,20,13,30-39,Low
+16,Male,22,20,79,19-29,Low
+17,Female,35,21,35,30-39,Low
+18,Male,20,21,,19-29,Low
+19,Male,52,23,100,50-59,Low
+20,Female,35,23,98,30-39,Low
+21,Male,35,24,35,30-39,Low
+22,Male,25,24,73,19-29,Low
+23,Female,46,25,5,40-49,Low
+24,Male,31,25,73,30-39,Low
+25,Female,54,28,14,50-59,Low
+26,Male,29,,82,19-29,
+27,Female,45,28,32,40-49,Low
+28,Male,35,28,61,30-39,Low
+29,Female,40,29,31,40-49,Low
+30,Female,23,29,87,19-29,Low
+31,Male,60,30,100,60 and over,Low
+32,Female,21,30,73,19-29,Low
+33,Male,53,,4,50-59,
+34,Male,18,33,92,Under 18,Middle
+35,Female,49,33,14,40-49,Middle
+36,Female,21,33,81,19-29,Middle
+37,Female,42,34,17,40-49,Middle
+38,Female,30,34,73,30-39,Middle
+39,Female,36,37,26,30-39,Middle
+40,Female,20,37,75,19-29,Middle
+41,Female,65,38,35,60 and over,Middle
+42,Male,24,38,92,19-29,Middle
+43,Male,48,39,36,40-49,Middle
+44,Female,31,39,61,30-39,Middle
+45,Female,49,39,28,40-49,Middle
+46,Female,24,39,65,19-29,Middle
+47,Female,50,40,55,50-59,Middle
+48,Female,27,40,47,19-29,Middle
+49,Female,29,40,42,19-29,Middle
+50,Female,31,40,42,30-39,Middle
+51,Female,49,42,52,40-49,Middle
+52,Male,33,42,60,30-39,Middle
+53,Female,31,43,54,30-39,Middle
+54,Male,59,43,60,50-59,Middle
+55,Female,50,43,45,50-59,Middle
+56,Male,47,43,,40-49,Middle
+57,Female,51,44,50,50-59,Middle
+58,Male,69,44,46,60 and over,Middle
+59,Female,27,46,51,19-29,Middle
+60,Male,53,46,46,50-59,Middle
+61,Male,70,46,56,60 and over,Middle
+62,Male,19,46,55,19-29,Middle
+63,Female,67,47,52,60 and over,Middle
+64,Female,54,47,59,50-59,Middle
+65,Male,63,48,51,60 and over,Middle
+66,Male,18,48,59,Under 18,Middle
+67,Female,43,48,50,40-49,Middle
+68,Female,68,48,48,60 and over,Middle
+69,Male,19,48,59,19-29,Middle
+70,Female,32,48,47,30-39,Middle
+71,Male,70,49,55,60 and over,Middle
+72,Female,47,49,42,40-49,Middle
+73,Female,60,50,49,60 and over,Middle
+74,Female,60,50,56,60 and over,Middle
+75,Male,59,54,47,50-59,Middle
+76,Male,26,54,54,19-29,Middle
+77,Female,45,,53,40-49,
+78,Male,40,54,48,40-49,Middle
+79,Female,23,54,52,19-29,Middle
+80,Female,49,54,42,40-49,Middle
+81,Male,57,54,51,50-59,Middle
+82,Male,38,54,55,30-39,Middle
+83,Male,67,54,41,60 and over,Middle
+84,Female,46,54,44,40-49,Middle
+85,Female,21,54,57,19-29,Middle
+86,Male,48,54,46,40-49,Middle
+87,Female,55,57,58,50-59,Middle
+88,Female,22,57,55,19-29,Middle
+89,Female,34,58,60,30-39,Middle
+90,Female,50,58,46,50-59,Middle
+91,Female,68,59,55,60 and over,Middle
+92,Male,18,59,41,Under 18,Middle
+93,Male,48,60,49,40-49,Middle
+94,Female,40,60,40,40-49,Middle
+95,Female,32,60,42,30-39,Middle
+96,Male,24,60,52,19-29,Middle
+97,Female,47,60,47,40-49,Middle
+98,Female,27,60,50,19-29,Middle
+99,Male,48,61,100,40-49,High
+100,Male,20,61,49,19-29,High
+101,Female,23,62,41,19-29,High
+102,Female,49,62,48,40-49,High
+103,Male,67,,59,60 and over,
+104,Male,26,62,55,19-29,High
+105,Male,49,62,56,40-49,High
+106,Female,21,62,42,19-29,High
+107,Female,66,63,50,60 and over,High
+108,Male,54,63,46,50-59,High
+109,Male,68,63,43,60 and over,High
+110,Male,66,63,48,60 and over,High
+111,Male,65,63,52,60 and over,High
+112,Female,19,63,54,19-29,High
+113,Female,38,64,42,30-39,High
+114,Male,19,64,46,19-29,High
+115,Female,18,65,48,Under 18,High
+116,Female,19,65,50,19-29,High
+117,Female,63,65,43,60 and over,High
+118,Female,49,65,59,40-49,High
+119,Female,51,67,43,50-59,High
+120,Female,50,67,57,50-59,High
+121,Male,27,67,56,19-29,High
+122,Female,38,67,40,30-39,High
+123,Female,40,69,58,40-49,High
+124,Male,39,69,91,30-39,High
+125,Female,23,70,29,19-29,High
+126,Female,31,70,77,30-39,High
+127,Male,43,71,35,40-49,High
+128,Male,40,71,95,40-49,High
+129,Male,59,71,11,50-59,High
+130,Male,38,71,75,30-39,High
+131,Male,47,71,9,40-49,High
+132,Male,39,71,75,30-39,High
+133,Female,25,72,34,19-29,High
+134,Female,31,72,71,30-39,High
+135,Male,20,73,5,19-29,High
+136,Female,29,73,88,19-29,High
+137,Female,44,73,7,40-49,High
+138,Male,32,73,73,30-39,High
+139,Male,19,74,10,19-29,High
+140,Female,35,74,72,30-39,High
+141,Female,57,75,5,50-59,High
+142,Male,32,75,93,30-39,High
+143,Female,28,,40,19-29,
+144,Female,32,76,87,30-39,High
+145,Male,25,77,12,19-29,High
+146,Male,28,77,97,19-29,High
+147,Male,48,77,36,40-49,High
+148,Female,32,77,74,30-39,High
+149,Female,34,78,22,30-39,High
+150,Male,34,78,90,30-39,High
+151,Male,43,78,17,40-49,High
+152,Male,39,78,88,30-39,High
+153,Female,44,78,20,40-49,High
+154,Female,38,78,76,30-39,High
+155,Female,47,78,16,40-49,High
+156,Female,27,78,89,19-29,High
+157,Male,37,78,1,30-39,High
+158,Female,30,78,78,30-39,High
+159,Male,34,78,1,30-39,High
+160,Female,30,78,73,30-39,High
+161,Female,56,79,35,50-59,High
+162,Female,29,79,83,19-29,High
+163,Male,19,81,5,19-29,High
+164,Female,31,,93,30-39,
+165,Male,50,85,26,50-59,High
+166,Female,36,85,75,30-39,High
+167,Male,42,86,20,40-49,High
+168,Female,33,86,95,30-39,High
+169,Female,36,87,27,30-39,High
+170,Male,32,87,63,30-39,High
+171,Male,40,87,13,40-49,High
+172,Male,28,87,75,19-29,High
+173,Male,36,87,10,30-39,High
+174,Male,36,87,92,30-39,High
+175,Female,52,88,13,50-59,High
+176,Female,30,88,86,30-39,High
+177,Male,58,,15,50-59,
+178,Male,27,88,69,19-29,High
+179,Male,59,93,14,50-59,High
+180,Male,35,93,90,30-39,High
+181,Female,37,97,32,30-39,High
+182,Female,32,97,86,30-39,High
+183,Male,46,98,15,40-49,High
+184,Female,29,98,88,19-29,High
+185,Female,41,99,39,40-49,High
+186,Male,30,99,97,30-39,High
+187,Female,54,101,24,50-59,High
+188,Male,28,101,68,19-29,High
+189,Female,41,103,17,40-49,High
+190,Female,36,103,85,30-39,High
+191,Female,34,103,23,30-39,High
+192,Female,32,103,69,30-39,High
+193,Male,33,113,8,30-39,High
+194,Female,38,113,91,30-39,High
+195,Female,47,120,16,40-49,High
+196,Female,35,120,150,30-39,High
+197,Female,45,126,28,40-49,High
+198,Male,32,126,74,30-39,High
+199,Male,32,137,18,30-39,High
+200,Male,30,137,83,30-39,High
